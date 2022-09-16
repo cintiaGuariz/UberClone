@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "288868375143",
+    "project_id": "uber-20e7d",
+    "storage_bucket": "uber-20e7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288868375143:android:cc5f3c88e122cac517d2c2",
+        "android_client_info": {
+          "package_name": "com.cursoandroid.uber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288868375143-c2j4dihm6vhmatom140c2e5ism8mt8vn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cursoandroid.uber",
+            "certificate_hash": "f000c14a16053b942dca56ca857ee9e3a5703515"
+          }
+        },
+        {
+          "client_id": "288868375143-38m0bvf55fktcsiu02qk3kfa57u69ist.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTZrkrXyWlwgIj4_Bw5c-jw_pt_aXIB5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288868375143-38m0bvf55fktcsiu02qk3kfa57u69ist.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
